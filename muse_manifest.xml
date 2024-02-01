@@ -1,10 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1706813677773">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1706831615419">
   <folder name="css">
     <file name="site_global.css" crc="4116419432"/>
-    <file name="master_lv-master.css" crc="4285404731" ref="index"/>
+    <file name="master_lv-master.css" crc="3810429907" ref="index"/>
     <file name="nomq_preview_master_lv-master.css" crc="359302012" ref="index"/>
-    <file name="index.css" crc="3849076116" ref="index"/>
+    <file name="index.css" crc="150305722" ref="index"/>
     <file name="nomq_index.css" crc="246219568" ref="index"/>
+    <file name="master_ru-master.css" crc="390378764" ref="ru"/>
+    <file name="nomq_preview_master_ru-master.css" crc="53990457" ref="ru"/>
+    <file name="master_en-master.css" crc="395024408" ref="en"/>
+    <file name="nomq_preview_master_en-master.css" crc="186125019" ref="en"/>
+    <file name="ru.css" crc="4265530332" ref="ru"/>
+    <file name="nomq_ru.css" crc="305691168" ref="ru"/>
+    <file name="en.css" crc="58610934" ref="en"/>
+    <file name="nomq_en.css" crc="4245343812" ref="en"/>
   </folder>
   <folder name="fonts">
     <file name="sanshiro-medium.woff" crc="367801511"/>
@@ -21,134 +29,290 @@
     <file name="sanshiro-regular.eot" crc="410768008"/>
     <file name="sanshiro-light.woff" crc="49160594"/>
     <file name="sanshiro-light.eot" crc="3982951747"/>
+    <file name="notosans-medium.woff" crc="259739909"/>
+    <file name="notosans-medium.eot" crc="3817867704"/>
+    <file name="notosans-medium.svg" crc="89287976"/>
+    <file name="notosans-regular.woff" crc="4043041365"/>
+    <file name="notosans-regular.eot" crc="4069028854"/>
+    <file name="notosans-regular.svg" crc="159736938"/>
+    <file name="notosans-semibold.woff" crc="4106887796"/>
+    <file name="notosans-semibold.eot" crc="3799363925"/>
+    <file name="notosans-semibold.svg" crc="382663953"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
-    <file name="webpro.js" crc="3856315280" ref="index"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
-    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ru:en"/>
+    <file name="museutils.js" crc="3939489907" ref="index:ru:en"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ru:en"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:ru:en"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:ru:en"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:ru:en"/>
+    <file name="webpro.js" crc="3856315280" ref="index:ru:en"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:ru:en"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:ru:en"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:ru:en"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:ru:en"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:ru:en"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:ru:en"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:ru:en"/>
+    <file name="require.js" crc="4177726516" ref="index:ru:en"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3838005024" ref="index"/>
-    <file name="logo-textless-plausanalv.png" crc="3544317" seo="true" ref="index">
+    <file name="favicon.ico" crc="3838005024" ref="index:ru"/>
+    <file name="logo-textless-plausanalv.png" crc="3544317" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="plausanalv-1.jpg" crc="497476522" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:ru:en"/>
+    <file name="plausanalv-1.jpg" crc="497476522" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="plausanalv-2.jpg" crc="356551486" seo="true" ref="index">
+    <file name="plausanalv-2.jpg" crc="356551486" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="plausanalv-3.jpg" crc="532033666" seo="true" ref="index">
+    <file name="plausanalv-3.jpg" crc="532033666" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="plausanalv-4.jpg" crc="438324451" seo="true" ref="index">
+    <file name="plausanalv-4.jpg" crc="438324451" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="plausanalv-5.jpg" crc="3987171793" seo="true" ref="index">
+    <file name="plausanalv-5.jpg" crc="3987171793" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="plausanalv-6.jpg" crc="222627523" seo="true" ref="index">
+    <file name="plausanalv-6.jpg" crc="222627523" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="plausanalv-7.jpg" crc="3803637882" seo="true" ref="index">
+    <file name="plausanalv-7.jpg" crc="3803637882" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="plausanalv-22.jpg" crc="174216060" ref="index">
+    <file name="loading.gif" crc="3815509949" ref="index:ru:en"/>
+    <file name="plausanalv-22.jpg" crc="174216060" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="plausanalv-12.jpg" crc="4178217573" ref="index">
+    <file name="plausanalv-12.jpg" crc="4178217573" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="phone-call.png" crc="4139164688" seo="true" ref="index">
+    <file name="phone-call.png" crc="4139164688" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="marker.png" crc="3883943739" seo="true" ref="index">
+    <file name="marker.png" crc="3883943739" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="at.png" crc="280996081" seo="true" ref="index">
+    <file name="at.png" crc="280996081" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="logo-textless-plausanalv-u3096.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u3115.png" crc="4152716856" ref="index"/>
-    <file name="plausanalv-1-u2620-fr.jpg" crc="4224810720" ref="index"/>
+    <file name="plausanalv-1-u2620-fr.jpg" crc="4224810720" ref="index:en"/>
     <file name="phone-call-u8606.png" crc="4175130831" ref="index"/>
-    <file name="plausanalv-1-u2620-fr2.jpg" crc="4239533975" ref="index"/>
-    <file name="plausanalv-2-u2634-fr.jpg" crc="3926005495" ref="index"/>
+    <file name="plausanalv-1-u2620-fr2.jpg" crc="4239533975" ref="index:en"/>
+    <file name="plausanalv-2-u2634-fr.jpg" crc="3926005495" ref="index:en"/>
     <file name="logo-textless-plausanalv-u11850.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u11852.png" crc="4152716856" ref="index"/>
-    <file name="menu button smaller.png" crc="4018438159" ref="index">
+    <file name="menu button smaller.png" crc="4018438159" ref="index:ru:en">
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="blose button smaller.png" crc="460852808" ref="index">
+    <file name="blose button smaller.png" crc="460852808" ref="index:ru:en">
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
-    <file name="logo-textprecise-plausanalv.png" crc="439677368" seo="true" ref="index">
+    <file name="logo-textprecise-plausanalv.png" crc="439677368" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="logo-textless-plausanalv-u19540.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u19542.png" crc="4152716856" ref="index"/>
+    <file name="logo-textless-plausanalv-u20076.png" crc="4187853090" ref="ru"/>
+    <file name="logo-textprecise-plausanalv-u20073.png" crc="4152716856" ref="ru"/>
+    <file name="phone-call-u20069.png" crc="4175130831" ref="ru"/>
+    <file name="logo-textless-plausanalv-u20181.png" crc="4187853090" ref="ru"/>
+    <file name="logo-textprecise-plausanalv-u20178.png" crc="4152716856" ref="ru"/>
+    <file name="logo-textless-plausanalv-u20153.png" crc="4187853090" ref="ru"/>
+    <file name="logo-textprecise-plausanalv-u20155.png" crc="4152716856" ref="ru"/>
+    <file name="logo-textless-plausanalv-u21206.png" crc="4187853090" ref="en"/>
+    <file name="logo-textprecise-plausanalv-u21203.png" crc="4152716856" ref="en"/>
+    <file name="phone-call-u21109.png" crc="4175130831" ref="en"/>
+    <file name="logo-textless-plausanalv-u21152.png" crc="4187853090" ref="en"/>
+    <file name="logo-textprecise-plausanalv-u21149.png" crc="4152716856" ref="en"/>
+    <file name="logo-textless-plausanalv-u21138.png" crc="4187853090" ref="en"/>
+    <file name="logo-textprecise-plausanalv-u21140.png" crc="4152716856" ref="en"/>
+    <file name="plausanalv-1-u21595-fr.jpg" crc="4224810720" ref="ru"/>
+    <file name="plausanalv-1-u21595-fr2.jpg" crc="4239533975" ref="ru"/>
+    <file name="plausanalv-2-u21586-fr.jpg" crc="3926005495" ref="ru"/>
   </folder>
-  <file name="index.html" crc="103869441" seo="true" mt="1706813667806" redirect="true"/>
+  <file name="index.html" crc="137935917" seo="true" mt="1706828979697" redirect="true"/>
+  <file name="ru.html" crc="3866175136" seo="true" mt="1706831599850" redirect="true"/>
+  <file name="en.html" crc="3926152498" seo="true" mt="1706829719271" redirect="true"/>
 </manifest>
