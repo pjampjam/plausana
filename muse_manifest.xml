@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1706764275200">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1706804633420">
   <folder name="css">
-    <file name="site_global.css" crc="286873059"/>
-    <file name="master_lv-master.css" crc="4229088426" ref="index"/>
-    <file name="nomq_preview_master_lv-master.css" crc="3848301952" ref="index"/>
-    <file name="index.css" crc="3934968682" ref="index"/>
-    <file name="nomq_index.css" crc="4087657267" ref="index"/>
+    <file name="site_global.css" crc="4116419432"/>
+    <file name="master_lv-master.css" crc="4005793676" ref="index"/>
+    <file name="nomq_preview_master_lv-master.css" crc="359302012" ref="index"/>
+    <file name="index.css" crc="129258605" ref="index"/>
+    <file name="nomq_index.css" crc="246219568" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="sanshiro-medium.woff" crc="367801511"/>
@@ -150,5 +150,5 @@
     <file name="logo-textless-plausanalv-u18506.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u18508.png" crc="4152716856" ref="index"/>
   </folder>
-  <file name="index.html" crc="4037253243" seo="true" mt="1706764252121" redirect="true"/>
+  <file name="index.html" crc="4076153230" seo="true" mt="1706804601094" redirect="true"/>
 </manifest>
