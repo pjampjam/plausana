@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1706763579638">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1706764056249">
   <folder name="css">
     <file name="site_global.css" crc="286873059"/>
-    <file name="master_lv-master.css" crc="375754303" ref="index"/>
-    <file name="nomq_preview_master_lv-master.css" crc="4245380951" ref="index"/>
-    <file name="index.css" crc="450564468" ref="index"/>
-    <file name="nomq_index.css" crc="480235133" ref="index"/>
+    <file name="master_lv-master.css" crc="4229088426" ref="index"/>
+    <file name="nomq_preview_master_lv-master.css" crc="3848301952" ref="index"/>
+    <file name="index.css" crc="3852937717" ref="index"/>
+    <file name="nomq_index.css" crc="28256267" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="sanshiro-medium.woff" crc="367801511"/>
@@ -132,8 +132,6 @@
     </file>
     <file name="logo-textless-plausanalv-u3096.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u3115.png" crc="4152716856" ref="index"/>
-    <file name="logo-textless-plausanalv-u18157.png" crc="4187853090" ref="index"/>
-    <file name="logo-textprecise-plausanalv-u18159.png" crc="4152716856" ref="index"/>
     <file name="plausanalv-1-u2620-fr.jpg" crc="4224810720" ref="index"/>
     <file name="phone-call-u8606.png" crc="4175130831" ref="index"/>
     <file name="plausanalv-1-u2620-fr2.jpg" crc="4239533975" ref="index"/>
@@ -149,6 +147,8 @@
     <file name="logo-textprecise-plausanalv.png" crc="439677368" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="logo-textless-plausanalv-u18506.png" crc="4187853090" ref="index"/>
+    <file name="logo-textprecise-plausanalv-u18508.png" crc="4152716856" ref="index"/>
   </folder>
-  <file name="index.html" crc="4022191643" seo="true" mt="1706763492141" redirect="true"/>
+  <file name="index.html" crc="3795970977" seo="true" mt="1706764035343" redirect="true"/>
 </manifest>
