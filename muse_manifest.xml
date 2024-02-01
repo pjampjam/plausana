@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1706811574110">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1706813677773">
   <folder name="css">
     <file name="site_global.css" crc="4116419432"/>
     <file name="master_lv-master.css" crc="4285404731" ref="index"/>
     <file name="nomq_preview_master_lv-master.css" crc="359302012" ref="index"/>
-    <file name="index.css" crc="4045585242" ref="index"/>
+    <file name="index.css" crc="3849076116" ref="index"/>
     <file name="nomq_index.css" crc="246219568" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -150,5 +150,5 @@
     <file name="logo-textless-plausanalv-u19540.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u19542.png" crc="4152716856" ref="index"/>
   </folder>
-  <file name="index.html" crc="3970222465" seo="true" mt="1706811554114" redirect="true"/>
+  <file name="index.html" crc="103869441" seo="true" mt="1706813667806" redirect="true"/>
 </manifest>
