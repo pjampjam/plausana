@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1706831615419">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1706891528779">
   <folder name="css">
     <file name="site_global.css" crc="4116419432"/>
     <file name="master_lv-master.css" crc="3810429907" ref="index"/>
     <file name="nomq_preview_master_lv-master.css" crc="359302012" ref="index"/>
     <file name="index.css" crc="150305722" ref="index"/>
     <file name="nomq_index.css" crc="246219568" ref="index"/>
-    <file name="master_ru-master.css" crc="390378764" ref="ru"/>
-    <file name="nomq_preview_master_ru-master.css" crc="53990457" ref="ru"/>
+    <file name="master_ru-master.css" crc="4048419362" ref="ru"/>
+    <file name="nomq_preview_master_ru-master.css" crc="424046220" ref="ru"/>
     <file name="master_en-master.css" crc="395024408" ref="en"/>
     <file name="nomq_preview_master_en-master.css" crc="186125019" ref="en"/>
-    <file name="ru.css" crc="4265530332" ref="ru"/>
-    <file name="nomq_ru.css" crc="305691168" ref="ru"/>
+    <file name="ru.css" crc="4133833607" ref="ru"/>
+    <file name="nomq_ru.css" crc="270199407" ref="ru"/>
     <file name="en.css" crc="58610934" ref="en"/>
     <file name="nomq_en.css" crc="4245343812" ref="en"/>
   </folder>
@@ -64,16 +64,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:ru:en"/>
     <file name="plausanalv-1.jpg" crc="497476522" seo="true" ref="index:ru:en">
@@ -82,16 +82,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="plausanalv-2.jpg" crc="356551486" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -99,16 +99,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="plausanalv-3.jpg" crc="532033666" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -116,16 +116,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="plausanalv-4.jpg" crc="438324451" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -133,16 +133,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="plausanalv-5.jpg" crc="3987171793" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -150,16 +150,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="plausanalv-6.jpg" crc="222627523" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -167,16 +167,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="plausanalv-7.jpg" crc="3803637882" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -184,16 +184,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:ru:en"/>
     <file name="plausanalv-22.jpg" crc="174216060" ref="index:ru:en">
@@ -201,22 +201,22 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="plausanalv-12.jpg" crc="4178217573" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="phone-call.png" crc="4139164688" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -224,16 +224,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="marker.png" crc="3883943739" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -241,16 +241,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="at.png" crc="280996081" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -258,16 +258,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="logo-textless-plausanalv-u3096.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u3115.png" crc="4152716856" ref="index"/>
@@ -279,18 +279,18 @@
     <file name="logo-textprecise-plausanalv-u11852.png" crc="4152716856" ref="index"/>
     <file name="menu button smaller.png" crc="4018438159" ref="index:ru:en">
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="blose button smaller.png" crc="460852808" ref="index:ru:en">
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="logo-textprecise-plausanalv.png" crc="439677368" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
+      <caption webpage="ru" alt=""/>
     </file>
     <file name="logo-textless-plausanalv-u19540.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u19542.png" crc="4152716856" ref="index"/>
@@ -313,6 +313,6 @@
     <file name="plausanalv-2-u21586-fr.jpg" crc="3926005495" ref="ru"/>
   </folder>
   <file name="index.html" crc="137935917" seo="true" mt="1706828979697" redirect="true"/>
-  <file name="ru.html" crc="3866175136" seo="true" mt="1706831599850" redirect="true"/>
+  <file name="ru.html" crc="4119534255" seo="true" mt="1706891504870" redirect="true"/>
   <file name="en.html" crc="3926152498" seo="true" mt="1706829719271" redirect="true"/>
 </manifest>
