@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1706972335279">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1707066802866">
   <folder name="css">
     <file name="site_global.css" crc="4116419432"/>
-    <file name="master_lv-master.css" crc="3758453834" ref="index"/>
-    <file name="nomq_preview_master_lv-master.css" crc="359302012" ref="index"/>
-    <file name="index.css" crc="4199709550" ref="index"/>
+    <file name="master_lv-master.css" crc="359151184" ref="index"/>
+    <file name="nomq_preview_master_lv-master.css" crc="4087744619" ref="index"/>
+    <file name="index.css" crc="3867259824" ref="index"/>
     <file name="nomq_index.css" crc="246219568" ref="index"/>
-    <file name="master_ru-master.css" crc="4289708445" ref="ru"/>
-    <file name="nomq_preview_master_ru-master.css" crc="53990457" ref="ru"/>
-    <file name="master_en-master.css" crc="4195194903" ref="en"/>
-    <file name="nomq_preview_master_en-master.css" crc="186125019" ref="en"/>
-    <file name="ru.css" crc="183693925" ref="ru"/>
+    <file name="master_ru-master.css" crc="168652249" ref="ru"/>
+    <file name="nomq_preview_master_ru-master.css" crc="4053636434" ref="ru"/>
+    <file name="master_en-master.css" crc="307122688" ref="en"/>
+    <file name="nomq_preview_master_en-master.css" crc="4281985319" ref="en"/>
+    <file name="ru.css" crc="146884474" ref="ru"/>
     <file name="nomq_ru.css" crc="183813174" ref="ru"/>
-    <file name="en.css" crc="4288796056" ref="en"/>
+    <file name="en.css" crc="4218821562" ref="en"/>
     <file name="nomq_en.css" crc="4245343812" ref="en"/>
   </folder>
   <folder name="fonts">
@@ -309,7 +309,7 @@
     <file name="logo-textless-plausanalv-u21138.png" crc="4187853090" ref="en"/>
     <file name="logo-textprecise-plausanalv-u21140.png" crc="4152716856" ref="en"/>
   </folder>
-  <file name="index.html" crc="3969079861" seo="true" mt="1706972250160" redirect="true"/>
-  <file name="ru.html" crc="457410343" seo="true" mt="1706972291622" redirect="true"/>
-  <file name="en.html" crc="518586876" seo="true" mt="1706972318540" redirect="true"/>
+  <file name="index.html" crc="510965234" seo="true" mt="1707066751652" redirect="true"/>
+  <file name="ru.html" crc="4060871208" seo="true" mt="1707066786627" redirect="true"/>
+  <file name="en.html" crc="3793160833" seo="true" mt="1707066773870" redirect="true"/>
 </manifest>
