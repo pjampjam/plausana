@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1707151455458">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1707660255210">
   <folder name="css">
     <file name="site_global.css" crc="4116419432"/>
-    <file name="master_lv-master.css" crc="329964499" ref="index"/>
-    <file name="nomq_preview_master_lv-master.css" crc="3796297454" ref="index"/>
-    <file name="index.css" crc="3997424891" ref="index"/>
-    <file name="nomq_index.css" crc="276059107" ref="index"/>
-    <file name="master_ru-master.css" crc="4063508578" ref="ru"/>
-    <file name="nomq_preview_master_ru-master.css" crc="4021814226" ref="ru"/>
-    <file name="master_en-master.css" crc="214557785" ref="en"/>
-    <file name="nomq_preview_master_en-master.css" crc="218636626" ref="en"/>
-    <file name="ru.css" crc="3908877782" ref="ru"/>
-    <file name="nomq_ru.css" crc="3995796731" ref="ru"/>
-    <file name="en.css" crc="58602653" ref="en"/>
-    <file name="nomq_en.css" crc="474163656" ref="en"/>
+    <file name="master_lv-master.css" crc="3848545603" ref="index"/>
+    <file name="nomq_preview_master_lv-master.css" crc="3951184275" ref="index"/>
+    <file name="index.css" crc="3827936056" ref="index"/>
+    <file name="nomq_index.css" crc="106368673" ref="index"/>
+    <file name="master_ru-master.css" crc="3884556000" ref="ru"/>
+    <file name="nomq_preview_master_ru-master.css" crc="10300408" ref="ru"/>
+    <file name="master_en-master.css" crc="200108622" ref="en"/>
+    <file name="nomq_preview_master_en-master.css" crc="4234056213" ref="en"/>
+    <file name="ru.css" crc="360899597" ref="ru"/>
+    <file name="nomq_ru.css" crc="3930825498" ref="ru"/>
+    <file name="en.css" crc="4087177345" ref="en"/>
+    <file name="nomq_en.css" crc="3948781859" ref="en"/>
   </folder>
   <folder name="fonts">
     <file name="sanshiro-medium.woff" crc="367801511"/>
@@ -309,7 +309,7 @@
     <file name="logo-textless-plausanalv-u21138.png" crc="4187853090" ref="en"/>
     <file name="logo-textprecise-plausanalv-u21140.png" crc="4152716856" ref="en"/>
   </folder>
-  <file name="index.html" crc="4011337241" seo="true" mt="1707151429895" redirect="true"/>
-  <file name="ru.html" crc="316193868" seo="true" mt="1707151434806" redirect="true"/>
-  <file name="en.html" crc="3963199494" seo="true" mt="1707151438277" redirect="true"/>
+  <file name="index.html" crc="3981910325" seo="true" mt="1707660194026" redirect="true"/>
+  <file name="ru.html" crc="205553706" seo="true" mt="1707660198308" redirect="true"/>
+  <file name="en.html" crc="503720756" seo="true" mt="1707660208590" redirect="true"/>
 </manifest>
