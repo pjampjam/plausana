@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1707660255210">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1707745172964">
   <folder name="css">
     <file name="site_global.css" crc="4116419432"/>
     <file name="master_lv-master.css" crc="3848545603" ref="index"/>
     <file name="nomq_preview_master_lv-master.css" crc="3951184275" ref="index"/>
     <file name="index.css" crc="3827936056" ref="index"/>
     <file name="nomq_index.css" crc="106368673" ref="index"/>
-    <file name="master_ru-master.css" crc="3884556000" ref="ru"/>
-    <file name="nomq_preview_master_ru-master.css" crc="10300408" ref="ru"/>
+    <file name="master_ru-master.css" crc="2324165" ref="ru"/>
+    <file name="nomq_preview_master_ru-master.css" crc="4058622044" ref="ru"/>
     <file name="master_en-master.css" crc="200108622" ref="en"/>
     <file name="nomq_preview_master_en-master.css" crc="4234056213" ref="en"/>
-    <file name="ru.css" crc="360899597" ref="ru"/>
-    <file name="nomq_ru.css" crc="3930825498" ref="ru"/>
+    <file name="ru.css" crc="4212412075" ref="ru"/>
+    <file name="nomq_ru.css" crc="285079108" ref="ru"/>
     <file name="en.css" crc="4087177345" ref="en"/>
     <file name="nomq_en.css" crc="3948781859" ref="en"/>
   </folder>
@@ -57,7 +57,7 @@
     <file name="require.js" crc="4177726516" ref="index:ru:en"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3838005024" ref="index"/>
+    <file name="favicon.ico" crc="3838005024" ref="index:ru"/>
     <file name="logo-textless-plausanalv.png" crc="3544317" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -271,10 +271,10 @@
     </file>
     <file name="logo-textless-plausanalv-u3096.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u3115.png" crc="4152716856" ref="index"/>
-    <file name="plausanalv-1-u2620-fr.jpg" crc="4224810720" ref="index:en:ru"/>
+    <file name="plausanalv-1-u2620-fr.jpg" crc="4224810720" ref="index:en"/>
     <file name="phone-call-u8606.png" crc="4175130831" ref="index"/>
-    <file name="plausanalv-1-u2620-fr2.jpg" crc="4239533975" ref="index:en:ru"/>
-    <file name="plausanalv-2-u2634-fr.jpg" crc="3926005495" ref="index:en:ru"/>
+    <file name="plausanalv-1-u2620-fr2.jpg" crc="4239533975" ref="index:en"/>
+    <file name="plausanalv-2-u2634-fr.jpg" crc="3926005495" ref="index:en"/>
     <file name="logo-textless-plausanalv-u11850.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u11852.png" crc="4152716856" ref="index"/>
     <file name="menu button smaller.png" crc="4018438159" ref="index:ru:en">
@@ -308,8 +308,11 @@
     <file name="logo-textprecise-plausanalv-u21149.png" crc="4152716856" ref="en"/>
     <file name="logo-textless-plausanalv-u21138.png" crc="4187853090" ref="en"/>
     <file name="logo-textprecise-plausanalv-u21140.png" crc="4152716856" ref="en"/>
+    <file name="plausanalv-1-u21595-fr.jpg" crc="4224810720" ref="ru"/>
+    <file name="plausanalv-1-u21595-fr2.jpg" crc="4239533975" ref="ru"/>
+    <file name="plausanalv-2-u21586-fr.jpg" crc="3926005495" ref="ru"/>
   </folder>
   <file name="index.html" crc="3981910325" seo="true" mt="1707660194026" redirect="true"/>
-  <file name="ru.html" crc="205553706" seo="true" mt="1707660198308" redirect="true"/>
+  <file name="ru.html" crc="4015854499" seo="true" mt="1707745160622" redirect="true"/>
   <file name="en.html" crc="503720756" seo="true" mt="1707660208590" redirect="true"/>
 </manifest>
