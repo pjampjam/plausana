@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1707923240855">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1708005046675">
   <folder name="css">
     <file name="site_global.css" crc="4116419432"/>
     <file name="master_lv-master.css" crc="199289597" ref="index"/>
