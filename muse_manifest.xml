@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1708113972487">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1708444207166">
   <folder name="css">
-    <file name="site_global.css" crc="286873059"/>
-    <file name="master_lv-master.css" crc="438249667" ref="index"/>
+    <file name="site_global.css" crc="4116419432"/>
+    <file name="master_lv-master.css" crc="4212818755" ref="index"/>
     <file name="nomq_preview_master_lv-master.css" crc="4087744619" ref="index"/>
-    <file name="index.css" crc="395423514" ref="index"/>
-    <file name="nomq_index.css" crc="4274454747" ref="index"/>
-    <file name="master_ru-master.css" crc="4198465857" ref="ru"/>
+    <file name="index.css" crc="366166967" ref="index"/>
+    <file name="nomq_index.css" crc="62065714" ref="index"/>
+    <file name="master_ru-master.css" crc="360261175" ref="ru"/>
     <file name="nomq_preview_master_ru-master.css" crc="4053636434" ref="ru"/>
-    <file name="master_en-master.css" crc="372161249" ref="en"/>
+    <file name="master_en-master.css" crc="458688767" ref="en"/>
     <file name="nomq_preview_master_en-master.css" crc="4281985319" ref="en"/>
-    <file name="ru.css" crc="431257771" ref="ru"/>
-    <file name="nomq_ru.css" crc="4019914062" ref="ru"/>
-    <file name="en.css" crc="3984670670" ref="en"/>
-    <file name="nomq_en.css" crc="514543844" ref="en"/>
+    <file name="ru.css" crc="386452076" ref="ru"/>
+    <file name="nomq_ru.css" crc="208634351" ref="ru"/>
+    <file name="en.css" crc="207955635" ref="en"/>
+    <file name="nomq_en.css" crc="4289855058" ref="en"/>
   </folder>
   <folder name="fonts">
     <file name="sanshiro-medium.woff" crc="367801511"/>
@@ -309,7 +309,7 @@
     <file name="logo-textless-plausanalv-u21138.png" crc="4187853090" ref="en"/>
     <file name="logo-textprecise-plausanalv-u21140.png" crc="4152716856" ref="en"/>
   </folder>
-  <file name="index.html" crc="411186875" seo="true" mt="1708113940077" redirect="true"/>
-  <file name="ru.html" crc="525053159" seo="true" mt="1708113951294" redirect="true"/>
-  <file name="en.html" crc="220257036" seo="true" mt="1708113958535" redirect="true"/>
+  <file name="index.html" crc="389173291" seo="true" mt="1708444142046" redirect="true"/>
+  <file name="ru.html" crc="348347964" seo="true" mt="1708444167065" redirect="true"/>
+  <file name="en.html" crc="135432118" seo="true" mt="1708444190016" redirect="true"/>
 </manifest>
