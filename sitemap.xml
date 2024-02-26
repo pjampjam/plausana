@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://plausana.lv/index.html</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -40,11 +40,14 @@
     </image:image>
     <image:image>
       <image:loc>http://plausana.lv/images/logo-textprecise-plausanalv.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://plausana.lv/images/plausanalv-8.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://plausana.lv/ru.html</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -82,11 +85,14 @@
     </image:image>
     <image:image>
       <image:loc>http://plausana.lv/images/logo-textprecise-plausanalv.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://plausana.lv/images/plausanalv-8.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://plausana.lv/en.html</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -124,6 +130,9 @@
     </image:image>
     <image:image>
       <image:loc>http://plausana.lv/images/logo-textprecise-plausanalv.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://plausana.lv/images/plausanalv-8.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
