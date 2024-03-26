@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1710710975987">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1711487312189">
   <folder name="css">
     <file name="site_global.css" crc="4116419432"/>
-    <file name="master_lv-master.css" crc="3843269213" ref="index"/>
-    <file name="nomq_preview_master_lv-master.css" crc="3796297454" ref="index"/>
-    <file name="index.css" crc="44599182" ref="index"/>
-    <file name="nomq_index.css" crc="304402309" ref="index"/>
+    <file name="master_lv-master.css" crc="3948802364" ref="index"/>
+    <file name="nomq_preview_master_lv-master.css" crc="3951184275" ref="index"/>
+    <file name="index.css" crc="486054752" ref="index"/>
+    <file name="nomq_index.css" crc="506945255" ref="index"/>
     <file name="master_ru-master.css" crc="4204117030" ref="ru"/>
     <file name="nomq_preview_master_ru-master.css" crc="3919171273" ref="ru"/>
     <file name="master_en-master.css" crc="3803698377" ref="en"/>
@@ -241,7 +241,7 @@
     <file name="logo-textless-plausanalv-u21138.png" crc="4187853090" ref="en"/>
     <file name="logo-textprecise-plausanalv-u21140.png" crc="4152716856" ref="en"/>
   </folder>
-  <file name="index.html" crc="3938378078" seo="true" mt="1710710962728" redirect="true"/>
+  <file name="index.html" crc="3896306321" seo="true" mt="1711487299364" redirect="true"/>
   <file name="ru.html" crc="14313761" seo="true" mt="1709045640368" redirect="true"/>
   <file name="en.html" crc="201917740" seo="true" mt="1709045649555" redirect="true"/>
 </manifest>
