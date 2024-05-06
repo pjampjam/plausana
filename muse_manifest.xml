@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1715009141765">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1715011352076">
   <folder name="css">
-    <file name="site_global.css" crc="4116419432"/>
-    <file name="master_lv-master.css" crc="162990842" ref="index"/>
+    <file name="site_global.css" crc="286873059"/>
+    <file name="master_lv-master.css" crc="3883251950" ref="index"/>
     <file name="nomq_preview_master_lv-master.css" crc="3951184275" ref="index"/>
-    <file name="index.css" crc="4069413882" ref="index"/>
-    <file name="nomq_index.css" crc="506945255" ref="index"/>
-    <file name="master_ru-master.css" crc="4130004245" ref="ru"/>
-    <file name="nomq_preview_master_ru-master.css" crc="459428334" ref="ru"/>
-    <file name="master_en-master.css" crc="437914649" ref="en"/>
+    <file name="index.css" crc="66613535" ref="index"/>
+    <file name="nomq_index.css" crc="3758841421" ref="index"/>
+    <file name="master_ru-master.css" crc="3841289941" ref="ru"/>
+    <file name="nomq_preview_master_ru-master.css" crc="10300408" ref="ru"/>
+    <file name="master_en-master.css" crc="3858223251" ref="en"/>
     <file name="nomq_preview_master_en-master.css" crc="4234056213" ref="en"/>
-    <file name="ru.css" crc="46663742" ref="ru"/>
-    <file name="nomq_ru.css" crc="132503236" ref="ru"/>
-    <file name="en.css" crc="3925606944" ref="en"/>
-    <file name="nomq_en.css" crc="2802436" ref="en"/>
+    <file name="ru.css" crc="201597121" ref="ru"/>
+    <file name="nomq_ru.css" crc="173510375" ref="ru"/>
+    <file name="en.css" crc="534500013" ref="en"/>
+    <file name="nomq_en.css" crc="237606215" ref="en"/>
   </folder>
   <folder name="fonts">
     <file name="sanshiro-medium.woff" crc="367801511"/>
@@ -57,7 +57,7 @@
     <file name="require.js" crc="4177726516" ref="index:ru:en"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3838005024" ref="index:ru"/>
+    <file name="favicon.ico" crc="3838005024" ref="index"/>
     <file name="logo-textless-plausanalv.png" crc="3544317" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -203,10 +203,10 @@
     </file>
     <file name="logo-textless-plausanalv-u3096.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u3115.png" crc="4152716856" ref="index"/>
-    <file name="plausanalv-1-u2620-fr.jpg" crc="4224810720" ref="index:en"/>
+    <file name="plausanalv-1-u2620-fr.jpg" crc="4224810720" ref="index:en:ru"/>
     <file name="phone-call-u8606.png" crc="4175130831" ref="index"/>
-    <file name="plausanalv-1-u2620-fr2.jpg" crc="4239533975" ref="index:en"/>
-    <file name="plausanalv-2-u2634-fr.jpg" crc="3926005495" ref="index:en"/>
+    <file name="plausanalv-1-u2620-fr2.jpg" crc="4239533975" ref="index:en:ru"/>
+    <file name="plausanalv-2-u2634-fr.jpg" crc="3926005495" ref="index:en:ru"/>
     <file name="logo-textless-plausanalv-u11850.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u11852.png" crc="4152716856" ref="index"/>
     <file name="menu button smaller.png" crc="4018438159" ref="index:ru:en">
@@ -240,11 +240,8 @@
     <file name="logo-textprecise-plausanalv-u21149.png" crc="4152716856" ref="en"/>
     <file name="logo-textless-plausanalv-u21138.png" crc="4187853090" ref="en"/>
     <file name="logo-textprecise-plausanalv-u21140.png" crc="4152716856" ref="en"/>
-    <file name="plausanalv-1-u21595-fr.jpg" crc="4224810720" ref="ru"/>
-    <file name="plausanalv-1-u21595-fr2.jpg" crc="4239533975" ref="ru"/>
-    <file name="plausanalv-2-u21586-fr.jpg" crc="3926005495" ref="ru"/>
   </folder>
-  <file name="index.html" crc="239508374" seo="true" mt="1715008444706" redirect="true"/>
-  <file name="ru.html" crc="4260139164" seo="true" mt="1712754301416" redirect="true"/>
-  <file name="en.html" crc="421495487" seo="true" mt="1715008527282" redirect="true"/>
+  <file name="index.html" crc="3841278648" seo="true" mt="1715011028230" redirect="true"/>
+  <file name="ru.html" crc="282865125" seo="true" mt="1715011201461" redirect="true"/>
+  <file name="en.html" crc="4039407961" seo="true" mt="1715011320417" redirect="true"/>
 </manifest>
