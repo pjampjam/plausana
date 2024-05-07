@@ -1,43 +1,43 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1715011352076">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plausana.lv" resolutions="1x" timestamp="1715116530572">
   <folder name="css">
     <file name="site_global.css" crc="286873059"/>
-    <file name="master_lv-master.css" crc="3883251950" ref="index"/>
-    <file name="nomq_preview_master_lv-master.css" crc="3951184275" ref="index"/>
-    <file name="index.css" crc="66613535" ref="index"/>
-    <file name="nomq_index.css" crc="3758841421" ref="index"/>
-    <file name="master_ru-master.css" crc="3841289941" ref="ru"/>
-    <file name="nomq_preview_master_ru-master.css" crc="10300408" ref="ru"/>
-    <file name="master_en-master.css" crc="3858223251" ref="en"/>
-    <file name="nomq_preview_master_en-master.css" crc="4234056213" ref="en"/>
-    <file name="ru.css" crc="201597121" ref="ru"/>
-    <file name="nomq_ru.css" crc="173510375" ref="ru"/>
-    <file name="en.css" crc="534500013" ref="en"/>
-    <file name="nomq_en.css" crc="237606215" ref="en"/>
+    <file name="master_en-master.css" crc="270133951" ref="en"/>
+    <file name="nomq_preview_master_en-master.css" crc="4281985319" ref="en"/>
+    <file name="master_lv-master.css" crc="272887494" ref="index"/>
+    <file name="nomq_preview_master_lv-master.css" crc="4087744619" ref="index"/>
+    <file name="master_ru-master.css" crc="6521594" ref="ru"/>
+    <file name="nomq_preview_master_ru-master.css" crc="4053636434" ref="ru"/>
+    <file name="ru.css" crc="431163893" ref="ru"/>
+    <file name="nomq_ru.css" crc="4147392229" ref="ru"/>
+    <file name="en.css" crc="264706988" ref="en"/>
+    <file name="nomq_en.css" crc="330940825" ref="en"/>
+    <file name="index.css" crc="4222767012" ref="index"/>
+    <file name="nomq_index.css" crc="108738880" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="sanshiro-medium.woff" crc="367801511"/>
-    <file name="sanshiro-medium.eot" crc="42500001"/>
     <file name="notosans-bold.woff" crc="203707214"/>
     <file name="notosans-bold.eot" crc="4259074922"/>
     <file name="notosans-bold.svg" crc="144440139"/>
-    <file name="sanshiro-bold.woff" crc="4246658307"/>
-    <file name="sanshiro-bold.eot" crc="527072749"/>
-    <file name="notosans-light.woff" crc="505282615"/>
-    <file name="notosans-light.eot" crc="4086212131"/>
-    <file name="notosans-light.svg" crc="162590918"/>
     <file name="sanshiro-regular.woff" crc="374594652"/>
     <file name="sanshiro-regular.eot" crc="410768008"/>
     <file name="sanshiro-light.woff" crc="49160594"/>
     <file name="sanshiro-light.eot" crc="3982951747"/>
-    <file name="notosans-medium.woff" crc="259739909"/>
-    <file name="notosans-medium.eot" crc="3817867704"/>
-    <file name="notosans-medium.svg" crc="89287976"/>
-    <file name="notosans-regular.woff" crc="4043041365"/>
-    <file name="notosans-regular.eot" crc="4069028854"/>
-    <file name="notosans-regular.svg" crc="159736938"/>
+    <file name="notosans-light.woff" crc="505282615"/>
+    <file name="notosans-light.eot" crc="4086212131"/>
+    <file name="notosans-light.svg" crc="162590918"/>
+    <file name="sanshiro-medium.woff" crc="367801511"/>
+    <file name="sanshiro-medium.eot" crc="42500001"/>
+    <file name="sanshiro-bold.woff" crc="4246658307"/>
+    <file name="sanshiro-bold.eot" crc="527072749"/>
     <file name="notosans-semibold.woff" crc="4106887796"/>
     <file name="notosans-semibold.eot" crc="3799363925"/>
     <file name="notosans-semibold.svg" crc="382663953"/>
+    <file name="notosans-regular.woff" crc="4043041365"/>
+    <file name="notosans-regular.eot" crc="4069028854"/>
+    <file name="notosans-regular.svg" crc="159736938"/>
+    <file name="notosans-medium.woff" crc="259739909"/>
+    <file name="notosans-medium.eot" crc="3817867704"/>
+    <file name="notosans-medium.svg" crc="89287976"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ru:en"/>
@@ -57,7 +57,7 @@
     <file name="require.js" crc="4177726516" ref="index:ru:en"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3838005024" ref="index"/>
+    <file name="lauku-mulčēšana--zāles-pļaušana-favicon.ico" crc="3994536279" ref="index"/>
     <file name="logo-textless-plausanalv.png" crc="3544317" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -128,6 +128,14 @@
       <caption webpage="en" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:ru:en"/>
+    <file name="plausanalv-12.jpg" crc="4178217573" ref="index:ru:en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+    </file>
     <file name="plausanalv-22.jpg" crc="174216060" ref="index:ru:en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -139,14 +147,6 @@
       <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-    </file>
-    <file name="plausanalv-12.jpg" crc="4178217573" ref="index:ru:en">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
     </file>
@@ -203,10 +203,10 @@
     </file>
     <file name="logo-textless-plausanalv-u3096.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u3115.png" crc="4152716856" ref="index"/>
-    <file name="plausanalv-1-u2620-fr.jpg" crc="4224810720" ref="index:en:ru"/>
-    <file name="phone-call-u8606.png" crc="4175130831" ref="index"/>
-    <file name="plausanalv-1-u2620-fr2.jpg" crc="4239533975" ref="index:en:ru"/>
-    <file name="plausanalv-2-u2634-fr.jpg" crc="3926005495" ref="index:en:ru"/>
+    <file name="plausanalv-1-u2620-fr.jpg" crc="4224810720" ref="index:ru:en"/>
+    <file name="phone-call-u8606.png" crc="3947856807" ref="index"/>
+    <file name="plausanalv-1-u2620-fr2.jpg" crc="4239533975" ref="index:ru:en"/>
+    <file name="plausanalv-2-u2634-fr.jpg" crc="3926005495" ref="index:ru:en"/>
     <file name="logo-textless-plausanalv-u11850.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u11852.png" crc="4152716856" ref="index"/>
     <file name="menu button smaller.png" crc="4018438159" ref="index:ru:en">
@@ -226,22 +226,24 @@
     </file>
     <file name="logo-textless-plausanalv-u19540.png" crc="4187853090" ref="index"/>
     <file name="logo-textprecise-plausanalv-u19542.png" crc="4152716856" ref="index"/>
+    <file name="мульчирование-полей--покос-травы-favicon.ico" crc="3994536279" ref="ru"/>
     <file name="logo-textless-plausanalv-u20076.png" crc="4187853090" ref="ru"/>
     <file name="logo-textprecise-plausanalv-u20073.png" crc="4152716856" ref="ru"/>
-    <file name="phone-call-u20069.png" crc="4175130831" ref="ru"/>
+    <file name="phone-call-u20069.png" crc="3947856807" ref="ru"/>
     <file name="logo-textless-plausanalv-u20181.png" crc="4187853090" ref="ru"/>
     <file name="logo-textprecise-plausanalv-u20178.png" crc="4152716856" ref="ru"/>
     <file name="logo-textless-plausanalv-u20153.png" crc="4187853090" ref="ru"/>
     <file name="logo-textprecise-plausanalv-u20155.png" crc="4152716856" ref="ru"/>
+    <file name="field-mulching--grass-mowing-favicon.ico" crc="3994536279" ref="en"/>
     <file name="logo-textless-plausanalv-u21206.png" crc="4187853090" ref="en"/>
     <file name="logo-textprecise-plausanalv-u21203.png" crc="4152716856" ref="en"/>
-    <file name="phone-call-u21109.png" crc="4175130831" ref="en"/>
+    <file name="phone-call-u21109.png" crc="3947856807" ref="en"/>
     <file name="logo-textless-plausanalv-u21152.png" crc="4187853090" ref="en"/>
     <file name="logo-textprecise-plausanalv-u21149.png" crc="4152716856" ref="en"/>
     <file name="logo-textless-plausanalv-u21138.png" crc="4187853090" ref="en"/>
     <file name="logo-textprecise-plausanalv-u21140.png" crc="4152716856" ref="en"/>
   </folder>
-  <file name="index.html" crc="3841278648" seo="true" mt="1715011028230" redirect="true"/>
-  <file name="ru.html" crc="282865125" seo="true" mt="1715011201461" redirect="true"/>
-  <file name="en.html" crc="4039407961" seo="true" mt="1715011320417" redirect="true"/>
+  <file name="index.html" crc="226871128" seo="true" mt="1715116432441" redirect="true"/>
+  <file name="ru.html" crc="4228206865" seo="true" mt="1715116445176" redirect="true"/>
+  <file name="en.html" crc="3904712266" seo="true" mt="1715116456589" redirect="true"/>
 </manifest>
